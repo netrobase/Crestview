@@ -10,56 +10,45 @@ export default function Footer() {
           <h3 className="font-semibold text-lg">School Info</h3>
           <ul className="mt-4 space-y-2">
             <li>About Us</li>
-            <li>Carrier</li>
+            <li>Curriculum</li>
             <li>We are hiring</li>
-            <li>Blog</li>
+
           </ul>
         </div>
         
         {/* Legal */}
         <div>
-          <h3 className="font-semibold text-lg">Legal</h3>
+          <h3 className="font-semibold text-lg">Activities</h3>
           <ul className="mt-4 space-y-2">
-            <li>About Us</li>
-            <li>Carrier</li>
-            <li>We are hiring</li>
-            <li>Blog</li>
+            <li>Competitions</li>
+            <li>Sports</li>
+            <li>Social Clubs</li>
           </ul>
         </div>
         
         {/* Features */}
         <div>
-          <h3 className="font-semibold text-lg">Features</h3>
+          <h3 className="font-semibold text-lg">Administration</h3>
           <ul className="mt-4 space-y-2">
-            <li>Business Marketing</li>
-            <li>User Analytic</li>
-            <li>Live Chat</li>
-            <li>Unlimited Support</li>
+            <li>School Admins</li>
+            <li>School Teachers</li>
+            <li>Academic Staff</li>
+            <li>Non Academic Staff</li>
           </ul>
         </div>
         
-        {/* Resources */}
-        <div>
-          <h3 className="font-semibold text-lg">Resources</h3>
-          <ul className="mt-4 space-y-2">
-            <li>IOS & Android</li>
-            <li>Watch a Demo</li>
-            <li>Customers</li>
-            <li>API</li>
-          </ul>
-        </div>
-        
+       
         {/* Get In Touch */}
         <div>
           <h3 className="font-semibold text-lg">Get In Touch</h3>
           <ul className="mt-4 space-y-2">
             <li className="flex items-center">
               <FaPhoneAlt className="mr-2 text-green-600" />
-              (480) 555-0103
+              (234) 7060259428
             </li>
             <li className="flex items-center">
               <FaMapMarkerAlt className="mr-2 text-green-600" />
-              4517 Washington Ave. Manchester, Kent
+              4517 Washington Ave. Enugu, Nigeria
             </li>
             <li className="flex items-center">
               <FaEnvelope className="mr-2 text-green-600" />
