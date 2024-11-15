@@ -7,7 +7,7 @@ export default function CallToAction() {
         <p className="text-green-500 font-semibold">Newsletter</p>
         <h1 className="text-3xl font-bold text-white">Connect with Us</h1>
         <p className="text-white max-w-lg mx-auto">
-          Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics
+        Take the First Step Towards a Brighter Future 
         </p>
         <div className="flex justify-center mt-8 pb-10">
           <input
